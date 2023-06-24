@@ -17,3 +17,9 @@ img{
     margin-left: auto;
     margin-right: auto;
  }
+
+h2{
+    text-decoration: underline;
+    font-weight: bold;
+    line-height: 2.0;
+}
