@@ -1,0 +1,34 @@
+body {
+    background-color: #fdd2c1;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    border: 5px solid rgb(247, 209, 86);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-decoration: underline;
+    font-weight: bold;
+    line-height: 2.0;
+}
+
+.unordered_list{
+    list-style: none;
+}
+
+button{
+    font-size: 15px;
+    background-color: blueviolet;
+    color: aqua;
+}
