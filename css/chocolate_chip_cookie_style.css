@@ -5,3 +5,7 @@ img{
    filter: drop-shadow(30px 10px 4px #000000);
    
 }
+
+.unordered_list{
+    list-style: none;
+}
