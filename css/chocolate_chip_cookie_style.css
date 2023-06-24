@@ -8,6 +8,8 @@ img{
 
 h1{
     text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
 }
 
 h2 {
