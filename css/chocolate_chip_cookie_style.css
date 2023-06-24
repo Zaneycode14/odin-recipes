@@ -1,0 +1,7 @@
+img{
+   height: 400px; 
+   width: auto;
+   background-color: black;
+   filter: drop-shadow(30px);
+   
+}
