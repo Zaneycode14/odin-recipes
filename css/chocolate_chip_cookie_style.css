@@ -26,3 +26,7 @@ h2 {
 .unordered_list{
     list-style: none;
 }
+
+button{
+    font-size: 15px;
+}
