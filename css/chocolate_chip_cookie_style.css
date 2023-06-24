@@ -21,6 +21,7 @@ h1{
 h2 {
     text-decoration: underline;
     font-weight: bold;
+    line-height: 2.0;
 }
 .unordered_list{
     list-style: none;
