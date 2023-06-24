@@ -4,6 +4,10 @@
     margin: 10px;
 }
 
+li {
+    font-size: 20px;
+}
+
 body {
     background-color: #ffe4c4;
 }
