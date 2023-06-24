@@ -22,3 +22,9 @@ h2 {
     font-weight: bold;
     line-height: 2.0;
 }
+
+button{
+    font-size: 15px;
+    background-color: blueviolet;
+    color: aqua;
+}
