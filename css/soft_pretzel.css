@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
