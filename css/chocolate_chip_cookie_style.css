@@ -1,8 +1,12 @@
+.Chocolate_chip_cookies {
+    background-color: blanchedalmond;
+}
+
 img{
    height: 400px; 
    width: auto;
    border: 5px solid rgb(71, 43, 43);
-   filter: drop-shadow(30px 10px 4px #000000);
+   filter: drop-shadow(30px 10px 4px rgb(0, 0, 0));
    display: block;
    margin-left: auto;
    margin-right: auto;
