@@ -23,6 +23,10 @@ h2 {
     line-height: 2.0;
 }
 
+.unordered_list{
+    list-style: none;
+}
+
 button{
     font-size: 15px;
     background-color: blueviolet;
