@@ -1,5 +1,18 @@
+body{
+    background-color: bisque;
+}
+
 h1{
     text-align: center;
     text-decoration: underline;
     font-weight: bolder;
 }
+
+img{
+    height: 300px; 
+    width: auto;
+    border: 5px solid #000000;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
