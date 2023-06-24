@@ -1,12 +1,18 @@
+.Recipes.button {
+    border: none;
+    background: aqua;
+    color: blue;
+    font-size: 15px;
+    
+}
+
+/*
 .Recipes {
     font-size: 40px;
     text-decoration: none;
 } 
+*/
 
-.Recipes.button {
-    background-color: aqua;
-    color: blue;
-}
 
 body {
     background-color: #ffe4c4;
