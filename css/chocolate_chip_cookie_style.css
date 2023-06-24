@@ -6,6 +6,14 @@ img{
    
 }
 
+h1{
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    font-weight: bold;
+}
 .unordered_list{
     list-style: none;
 }
