@@ -19,11 +19,11 @@ img{
 }
 
 .Recipes.button {
-    border: none;
-    font-size: 25px;
+    
+    font-size: 40px;
     margin: 10px;
-    background: red;
-    color: white;
+    background: none;
+    color: rgb(255, 149, 10);
 }
 
 li {
