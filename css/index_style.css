@@ -2,6 +2,12 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+h1 {
+    font-size: 60px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+}
 
 img{
     width: 500px;
