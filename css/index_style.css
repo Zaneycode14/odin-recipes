@@ -19,6 +19,10 @@ img{
     border: 5px solid #000000;
 }
 
+/* When .Recipes.button had margin added to style it caused the
+link box to extend beyond normal bounds. Links as a result are
+messed up. Will need to find solution to this problem. */
+
 .Recipes.button {
     font-size: 40px;
     margin: 10px;
@@ -26,7 +30,6 @@ img{
     color: rgb(0, 0, 0);
     margin-left: 215px;
     margin-right: -200px;
-
 }
 
 li {
