@@ -22,8 +22,11 @@ img{
 .Recipes.button {
     font-size: 40px;
     margin: 10px;
-    background: none;
-    color: rgb(255, 149, 10);
+    background: rgb(101, 134, 243);
+    color: rgb(0, 0, 0);
+    margin-left: 215px;
+    margin-right: -200px;
+
 }
 
 li {
@@ -32,5 +35,5 @@ li {
 }
 
 body {
-    background-color: #ffe4c4;
+    background-color: #fff8ee;
 }
